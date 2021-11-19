@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JuneFox.iml" filepath="$PROJECT_DIR$/.idea/modules/JuneFox.iml" group="JuneFox" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="JuneFox/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1934634858/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1934634858/react-native-community_masked-view.iml" group="JuneFox/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-604253951/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-604253951/react-native-gesture-handler.iml" group="JuneFox/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-650612613/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-650612613/react-native-reanimated.iml" group="JuneFox/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-216093398/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-216093398/react-native-safe-area-context.iml" group="JuneFox/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1469146686/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1469146686/react-native-screens.iml" group="JuneFox/react-native-screens" />
+    </modules>
+  </component>
+</project>
